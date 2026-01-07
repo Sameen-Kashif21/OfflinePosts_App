@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_activity_webview.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/activity_webview.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_activity_recycler.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/activity_recycler.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_activity_post_detail.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/activity_post_detail.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_row_post.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/row_post.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_item_post_recycler.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/item_post_recycler.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/menu_menu_popup_post.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/menu/menu_popup_post.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/menu_menu_main.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.offlinepostsapp-merged_res-32:/menu_menu_context_post.xml.flat",
+        "source": "com.example.offlinepostsapp-main-34:/menu/menu_context_post.xml"
+    }
+]

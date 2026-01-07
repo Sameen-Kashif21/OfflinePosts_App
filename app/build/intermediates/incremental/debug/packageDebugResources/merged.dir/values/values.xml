@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_300">#64B5F6</color>
+    <color name="blue_500">#1976D2</color>
+    <string name="app_name">OfflinePostsApp</string>
+    <style name="Theme.OfflinePosts.Blue" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue_500</item>
+        <item name="colorSecondary">@color/blue_300</item>
+    </style>
+    <style name="Theme.OfflinePosts.Dark" parent="Theme.Material3.DayNight">
+        
+    </style>
+    <style name="Theme.OfflinePosts.Light" parent="Theme.Material3.DayNight">
+        
+    </style>
+</resources>

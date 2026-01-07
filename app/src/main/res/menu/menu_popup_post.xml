@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pop_open_web" android:title="Open WebView"/>
+    <item android:id="@+id/pop_share" android:title="Share"/>
+</menu>
